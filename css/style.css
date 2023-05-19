@@ -593,9 +593,12 @@ span{
         width: 90vw;
         position: relative;
         right: 4rem;
+        margin-top: 0.1em;
     }
     .about-img img{    
         width: 70vw; 
+        position: relative; 
+        top: 2rem;
     }
     .services-box h3 {
         font-size: 3.8rem;
